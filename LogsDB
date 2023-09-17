@@ -55,7 +55,7 @@ def executar_script():
 
 root = tk.Tk()
 root.title("Registrar Logs")
-root.geometry("300x100")
+root.geometry("500x200")
 
 label_cliente = tk.Label(root, text="Nome Do Cliente")
 label_cliente.pack()
